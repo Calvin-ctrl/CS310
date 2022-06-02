@@ -1,4 +1,4 @@
-name: cs310_feed_view
+name: recitation
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -27,18 +27,18 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  email_validator: '^2.0.1'
   flutter:
     sdk: flutter
-
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   cached_network_image: ^3.2.0
   like_button: ^2.0.4
   flutter_local_notifications: ^9.5.3+1
-
+  flutter_svg: ^1.0.3
 dev_dependencies:
+
   flutter_test:
     sdk: flutter
 

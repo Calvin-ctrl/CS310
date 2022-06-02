@@ -1,4 +1,4 @@
-package com.example.cs310_feed_view
+package com.example.recitation
 
 import io.flutter.embedding.android.FlutterActivity
 
