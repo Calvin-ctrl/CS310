@@ -1,4 +1,4 @@
-#CS310- Step 3 updates:
+# recitation
 
 A new Flutter project.
 
