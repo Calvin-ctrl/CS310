@@ -1,4 +1,3 @@
-# CS310- step 3 (update):
 
 A new Flutter project.
 
